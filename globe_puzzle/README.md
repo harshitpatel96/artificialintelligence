@@ -16,7 +16,7 @@ where ALG is one of BFS, Astar, or RBFS
 and FILE is input file name which would be initial state of puzzle
 
 The program would ask the user to choose from three algorithms, that are Breadth First Search, A* Search, and Recursive Best First Search.
-It uses the selected algorithm to solve the puzzle2-0.mb file.
+It uses the selected algorithm to solve the puzzle file.
 After successfull completion of the puzzle, it would return the 
 1. number of states expanded
 2. max queue size
